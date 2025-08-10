@@ -11,8 +11,7 @@ A smart to-do list application that uses AI to suggest, organize, and prioritize
 )
 
 ### AI Suggestions
-![AI Suggestions](<img width="1901" height="447" alt="image" src="https://github.com/user-attachments/assets/a74e6bf7-d923-4ce0-b3ee-711a6df88540" />
-)
+<img width="1901" height="447" alt="image" src="https://github.com/user-attachments/assets/351e536c-b614-4622-87f7-7eca97b17f19" />
 
 ---
 
